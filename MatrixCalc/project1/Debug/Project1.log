@@ -1,0 +1,11 @@
+﻿  checkInput.c
+c:\users\dor90\desktop\matrixcalc\matrixcalc\project1\checkinput.c(161): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  LinearCalc.c
+c:\users\dor90\desktop\matrixcalc\matrixcalc\project1\linearcalc.c(40): warning C4013: 'gets' undefined; assuming extern returning int
+  matActions.c
+c:\users\dor90\desktop\matrixcalc\matrixcalc\project1\matactions.c(68): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+c:\users\dor90\desktop\matrixcalc\matrixcalc\project1\matactions.c(127): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+c:\users\dor90\desktop\matrixcalc\matrixcalc\project1\matactions.c(149): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+c:\users\dor90\desktop\matrixcalc\matrixcalc\project1\matactions.c(149): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Project1.vcxproj -> C:\Users\dor90\Desktop\MatrixCalc\MatrixCalc\Debug\Project1.exe
